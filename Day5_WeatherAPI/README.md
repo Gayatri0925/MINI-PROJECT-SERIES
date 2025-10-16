@@ -33,6 +33,3 @@ Keep your API key private
 Do not upload your key to GitHub
 
 Sample output is provided in this folder
-
-
-Let me know if you want me to **add this README to G
